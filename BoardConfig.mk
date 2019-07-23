@@ -27,6 +27,8 @@ BOARD_HARDWARE_CLASS += \
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_nx591j_defconfig
+TARGET_KERNEL_SOURCE := kernel/nubia/nx591j
+
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 4831838208
